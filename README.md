@@ -1,0 +1,1 @@
+Developing a Python-based AI assistant capable of voice interaction, real-time information retrieval, and desktop task automation. Integrated speech recognition, text-to-speech, and logic-based command processing for intelligent responses and local application control.
